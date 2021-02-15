@@ -13,7 +13,12 @@ I love creating amazing web pages and apps, chatbots with natural conversational
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 ![Git y GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
+
+## Currently learning
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)</br>
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
 
