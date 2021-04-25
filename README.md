@@ -14,6 +14,7 @@ I love creating amazing web pages and apps, chatbots with natural conversational
 ![Git y GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
+![Wordpress](https://img.shields.io/badge/Wordpress-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
 
 ## Currently learning
 
