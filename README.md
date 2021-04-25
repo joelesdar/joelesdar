@@ -22,7 +22,7 @@ I love creating amazing web pages and apps, chatbots with natural conversational
 
 ## Find me at:
 
-[![Web](https://img.shields.io/badge/Sitio_Web-joelesdar.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://joelesdar.com)
+[![Web](https://img.shields.io/badge/Sitio_Web-joelesdar.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://colectivosotavento.org/joel-diaz-arevalo/)
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
 [![Facebook](https://img.shields.io/badge/Facebook-@joelesdar-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/joelesdar)
 [![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
