@@ -34,7 +34,7 @@ I love creating amazing web pages, web apps, and chatbots with natural conversat
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Email-Joel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://joelesdar.com/contacto)
+[![Email](https://img.shields.io/badge/Email-Joel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jodiaza@unal.edu.co)
 
 <!---
 JoeLink12/JoeLink12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
