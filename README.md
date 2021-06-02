@@ -1,11 +1,12 @@
 # 👋 Hola, my name is Joel Diaz Arévalo @joelesdar
 ### I'm a frontend and chatbots developer // Sciences and education lover!❤
 
-I love creating amazing web pages and apps, chatbots with natural conversational experiences and teaching maths✖💯
+I love creating amazing web pages, web apps, and chatbots with natural conversational experiences✖💯
 
 ## About me
 
 📖 Computer engineering student at National University of Colombia.</br>
+✏ Community physics and math educator
 🎨 Parkour and meditation practitioner / Folkloric dancer.</br>
 📣 Español / English / Français.
 
@@ -13,6 +14,7 @@ I love creating amazing web pages and apps, chatbots with natural conversational
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 ![Git y GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
+![PHP](https://img.shields.io/badge/php-8892be?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)</br>
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)</br>
 
