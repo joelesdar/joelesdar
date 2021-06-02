@@ -1,5 +1,5 @@
 # 👋 Hola, my name is Joel Diaz Arévalo @joelesdar
-### I'm a frontend and chatbots developer // Sciences and education lover!❤
+### I'm a frontend and chatbots developer // Science and education lover!❤
 
 I love creating amazing web pages, web apps, and chatbots with natural conversational experiences✖💯
 
