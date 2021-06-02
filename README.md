@@ -6,7 +6,7 @@ I love creating amazing web pages, web apps, and chatbots with natural conversat
 ## About me
 
 📖 Computer engineering student at National University of Colombia.</br>
-✏ Community physics and math educator
+✏ Community physics and math educator.</br>
 🎨 Parkour and meditation practitioner / Folkloric dancer.</br>
 📣 Español / English / Français.
 
