@@ -17,8 +17,8 @@ I love creating amazing web pages, web apps, and chatbots with natural conversat
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![PHP](https://img.shields.io/badge/php-8892be?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)</br>
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
 
 ## Currently learning
 
