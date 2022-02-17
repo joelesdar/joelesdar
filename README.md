@@ -12,6 +12,7 @@ I love creating amazing web pages, web apps, and chatbots with natural conversat
 
 ## Skills:
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
 ![Git y GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![PHP](https://img.shields.io/badge/php-8892be?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)</br>
@@ -27,7 +28,6 @@ I love creating amazing web pages, web apps, and chatbots with natural conversat
 
 [![Web](https://img.shields.io/badge/Sitio_Web-sotavento.org-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://colectivosotavento.org/joel-diaz-arevalo/)
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
-[![Facebook](https://img.shields.io/badge/Facebook-@joelesdar-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/joelesdar)
 [![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
 [![Twitter](https://img.shields.io/badge/Twitter-@joelesdar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JoelEsDar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Esteban_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joel-esteban-diaz-arévalo-435aab1a9/)
