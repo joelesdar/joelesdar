@@ -31,11 +31,11 @@ I love creating amazing web pages, web apps, and chatbots with natural conversat
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
 [![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
 [![Twitter](https://img.shields.io/badge/Twitter-@joelesdar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JoelEsDar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Esteban_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joel-esteban-diaz-arévalo-435aab1a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Esteban_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joelesdar/)
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Email-Joel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jodiaza@unal.edu.co)
+[![Email](https://img.shields.io/badge/Email-Joel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jodiazare@gmail.com)
 
 <!---
 JoeLink12/JoeLink12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
