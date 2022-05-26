@@ -19,10 +19,9 @@ I love creating amazing web pages, web apps, and products with a really great us
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
 
 ## Currently learning
-![Solidity](https://img.shields.io/badge/Solidity-FF9800?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)</br>
+![Solidity](https://img.shields.io/badge/Solidity-5C6BC0?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)</br>
 
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)</br> -->
-![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
 
