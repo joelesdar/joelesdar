@@ -29,7 +29,7 @@ I love creating amazing web pages, web apps, and products with a really great us
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
 [![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
 [![Twitter](https://img.shields.io/badge/Twitter-@joelesdar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JoelEsDar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Esteban_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joelesdar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joelesdar/)
 
 ## Contact me:
 
