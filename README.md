@@ -1,5 +1,5 @@
 # 👋 Hola, my name is Joel Diaz Arévalo @joelesdar
-### I'm a web developer // Science and education lover!❤
+### I'm a blockchain and frontend developer // Science and education lover!❤
 
 I love creating amazing web pages, web apps, and products with a really great user experience and quality.✖💯
 
