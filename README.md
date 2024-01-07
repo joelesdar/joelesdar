@@ -3,9 +3,10 @@
 <strong>I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨</strong>
 <br/>
 <br/>
-<h2>Cosas que he hecho</h2>
+<h2>Achievements</h2>
 <ul>
   <li>✏️ I am currently educating about Blockchain and Web3 at <a href="https://www.linkedin.com/company/turingbox/">TuringBox</a></li>
+  <li>🎤 Speaking about the future</li>
   <li>💚 I was embassador at @Platzi</li>
 </ul>
 
@@ -24,7 +25,7 @@ Pet photos app made with react.js
 ✏ Community physics and math educator.</br>
 📣 Español / English / Français.
 
-## Skills:
+<h2>Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
@@ -44,8 +45,11 @@ Pet photos app made with react.js
 
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)</br> -->
 
-## Find me at:
-
+<h2>Find me</h2>
+<ul>
+  <li>✏️ Writing about technology, web3 and professional skills on <a href="https://medium.com/@joelesdar">Medium</a></li>
+  <li>💚 I was embassador at @Platzi</li>
+</ul>
 [![Web](https://img.shields.io/badge/Sitio_Web-joelesdar.com-1c82f6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://joelesdar.com/)
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
 [![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
