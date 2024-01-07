@@ -7,8 +7,11 @@ I am a Frontend developer, speaker, community builder, and passionate, proactive
 <h2>Some of my projects</h2>
 
 <h3>Petgram</h3>
-z
+Pet photos app made with react.js
 <h3>Rick & Morty App</h3>
+
+<h3>Push Protocol</h3>
+
 <h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
 ## About me
 
