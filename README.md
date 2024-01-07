@@ -17,8 +17,9 @@ z
 ## Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Solidity-5C6BC0?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
