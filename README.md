@@ -50,11 +50,15 @@ Pet photos app made with react.js
   <li>✏️ Writing about technology, web3 and professional skills on <a href="https://medium.com/@joelesdar">Medium</a></li>
   <li>💚 I was embassador at @Platzi</li>
 </ul>
+
+<!---
 [![Web](https://img.shields.io/badge/Sitio_Web-joelesdar.com-1c82f6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://joelesdar.com/)
 <!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
 [![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
 [![Twitter](https://img.shields.io/badge/Twitter-@joelesdar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JoelEsDar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joelesdar/)
+
+--->
 
 ## Contact me:
 
