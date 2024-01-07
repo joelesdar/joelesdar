@@ -1,6 +1,12 @@
 <h1 align="center">👋 Hola, my name is Joel Diaz Arévalo <span style="color: red;">@joelesdar</span></h1>
-<h1 style="color:blue;">Hola, soy <a href="https://github.com/octocat">octocat</a></h1>
-<p style="color:red;">Me gusta programar en <strong style="color:green;">JavaScript</strong>
+<svg height="30" width="200" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" fill="blue">Hola, soy </text>
+  <a href="https://github.com/octocat" target="_blank">
+    <text x="55" y="15" fill="purple">octocat</text>
+  </a>
+  <text x="120" y="15" fill="red">Me gusta programar en </text>
+  <text x="210" y="15" fill="green">JavaScript</text>
+</svg>
 <img src="https://raw.githubusercontent.com/joelesdar/joelesdar/main/Banner-Joelesdar.jpg" />
 I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨
 
