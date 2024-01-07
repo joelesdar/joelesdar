@@ -15,12 +15,12 @@ I am a Frontend developer, speaker, community builder, and passionate, proactive
 📣 Español / English / Français.
 
 ## Skills:
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
-![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
-![Solidity-Smart Contracts](https://img.shields.io/badge/Solidity-5C6BC0?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)</br>
-![Git y GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)</br>
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
+[React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
+[JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+[Solidity-Smart Contracts](https://img.shields.io/badge/Solidity-5C6BC0?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)</br>
+[Git y GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
+[Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)</br>
+[Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=101010)</br>
 
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)</br> -->
 
