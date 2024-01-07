@@ -17,13 +17,13 @@ z
 ## Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="apple" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
 </p>
   ![JavaScript]()
   ![Solidity-Smart Contracts](https://img.shields.io/badge/Solidity-5C6BC0?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)
