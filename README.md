@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hola, my name is Joel Diaz Arévalo @joelesdar</h1>
+<img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc6e1e584-9be9-4496-89c2-b070667b6f77%2F7bc3922a-793a-4fc1-90f1-3b78b6bdbb48%2FBanner_2_Joelesdar.jpg?table=block&id=0218f821-ebc8-489b-b5d5-41ac17d5cf99&spaceId=c6e1e584-9be9-4496-89c2-b070667b6f77&width=2000&userId=50773f42-a940-48b9-8ec3-c36c47ae7d10&cache=v2"></img>
 I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨
 
 <h2>Some of my projects</h2>
