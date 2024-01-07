@@ -6,7 +6,7 @@ I am a Frontend developer, speaker, community builder, and passionate, proactive
 <h3>Petgram</h3>
 
 <h3>Rick & Morty App</h3>
-<a align="center" href="https://joelesdar.com">Joelesdar.com</a>
+<h3 align="center"> You can find me at: </h3><a align="center" href="https://joelesdar.com">Joelesdar.com</a>
 ## About me
 
 📖 Computer engineering student at National University of Colombia.</br>
