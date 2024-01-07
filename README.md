@@ -1,12 +1,12 @@
-# 👋 Hola, my name is Joel Diaz Arévalo @joelesdar
-I am a web developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨
+<h1 align="center">👋 Hola, my name is Joel Diaz Arévalo @joelesdar</h1>
+I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨
 
-## Some of my projects
+<h2>Some of my projects</h2>
 
-### Petgram
+<h3>Petgram</h3>
 
-### Rick & Morty App
-
+<h3>Rick & Morty App</h3>
+<a align="center" href="https://joelesdar.com">Joelesdar.com</a>
 ## About me
 
 📖 Computer engineering student at National University of Colombia.</br>
