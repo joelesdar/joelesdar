@@ -19,7 +19,7 @@
 <h3>🐱 Petgram</h3>
 <li>Petgram is the social network where you can register, like and explore your favorite pets: <a href="https://petgram-mu-five.vercel.app/" target="_blank">Petgram</a></li>
 
-<h3>Rick & Morty App</h3>
+<h3>🚀 Rick & Morty App</h3>
 <li>With the Rick and Morty app, you can randomly browse through characters from the series: <a href="https://rick-and-morty-generator-9hdb.vercel.app/" target="_blank">App</a></li>
 
 <h2>🎯 Technologies & Skills</h2>
