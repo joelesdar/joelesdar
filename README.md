@@ -3,21 +3,21 @@
 <strong>I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨</strong>
 <br/>
 <br/>
-<h2>About me</h2>
+<h2>👀 About me</h2>
 <ul>
   <li>✏️ I'm currently leading the most successful student project in Blockchain in Colombia at <a href="https://www.linkedin.com/company/turingbox/">TuringBox</a>.</li>
-  <li>💚 I've been ambassador at Platzi in the Ethereum Developer Program</li>
-  <li>🎤 You cand find me always organizing tech events for the community and speaking about the future in this industry</li>
+  <li>💚 I've been ambassador at Platzi in the Ethereum Developer Program.</li>
+  <li>🎤 You cand find me always organizing tech events for the community and speaking about the future in this industry.</li>
   <li>🫂 Ask me about education, Blockchain & Web3, or whatever you want, I'm here to help and grow together.</li>
 </ul>
 
-<h2>Some of my projects</h2>
+<h3>Push Protocol</h3>
+<h2>⚒️ Some of my projects</h2>
 
 <h3>Petgram</h3>
 Pet photos app made with react.js
 <h3>Rick & Morty App</h3>
 
-<h3>Push Protocol</h3>
 
 <h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
 ## About me
@@ -26,7 +26,7 @@ Pet photos app made with react.js
 ✏ Community physics and math educator.</br>
 📣 Español / English / Français.
 
-<h2>Skills</h2>
+<h2>🎯 Technologies & Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
