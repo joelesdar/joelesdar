@@ -22,9 +22,6 @@
 <h3>Rick & Morty App</h3>
 <li>With the Rick and Morty app, you can randomly browse through characters from the series: <a href="https://rick-and-morty-generator-9hdb.vercel.app/" target="_blank">App</a></li>
 
-<h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
-📣 Español / English / Français.
-
 <h2>🎯 Technologies & Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
@@ -50,6 +47,9 @@
   <li>✏️ Writing about technology, web3 and professional skills on <a href="https://medium.com/@joelesdar">Medium</a></li>
   <li>💚 I was embassador at @Platzi</li>
 </ul>
+
+<h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
+📣 Español / English / Français.
 
 <!---
 [![Web](https://img.shields.io/badge/Sitio_Web-joelesdar.com-1c82f6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://joelesdar.com/)
