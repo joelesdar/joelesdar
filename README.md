@@ -11,14 +11,14 @@
   <li>🫂 Ask me about education, Blockchain & Web3, or whatever you want, I'm here to help and grow together.</li>
 </ul>
 
-<h3>Push Protocol</h3>
-<li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi:</li>
-<a href="https://push.org/">push.org</a>
-
 <h2>⚒️ Some of my projects</h2>
 
-<h3>Petgram</h3>
+<h3>🔔 Push Protocol</h3>
+<li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi: <a href="https://push.org/">push.org</a></li>
+
+<h3>🐱 Petgram</h3>
 Pet photos app made with react.js
+
 <h3>Rick & Morty App</h3>
 
 
