@@ -3,11 +3,12 @@
 <strong>I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨</strong>
 <br/>
 <br/>
-<h2>Achievements</h2>
+<h2>About me</h2>
 <ul>
-  <li>✏️ I am currently educating about Blockchain and Web3 at <a href="https://www.linkedin.com/company/turingbox/">TuringBox</a></li>
-  <li>🎤 Speaking about the future</li>
-  <li>💚 I was embassador at @Platzi</li>
+  <li>✏️ I'm currently leading the most successful student project in Blockchain in Colombia at <a href="https://www.linkedin.com/company/turingbox/">TuringBox</a>.</li>
+  <li>💚 I've been ambassador at Platzi in the Ethereum Developer Program</li>
+  <li>🎤 You cand find me always organizing tech events for the community and speaking about the future in this industry</li>
+  <li>🫂 Ask me about education, Blockchain & Web3, or whatever you want, I'm here to help and grow together.</li>
 </ul>
 
 <h2>Some of my projects</h2>
