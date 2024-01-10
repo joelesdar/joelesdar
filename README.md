@@ -17,7 +17,7 @@
 <li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi: <a href="https://push.org/">push.org</a></li>
 
 <h3>🐱 Petgram</h3>
-Pet photos app made with react.js
+<li>Petgram is the social network where you can register, like and explore your favorite pets: <a href="https://petgram-mu-five.vercel.app/">Petgram</a></li>
 
 <h3>Rick & Morty App</h3>
 
