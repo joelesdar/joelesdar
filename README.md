@@ -12,7 +12,7 @@
 </ul>
 
 <h3>Push Protocol</h3>
-- I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi:
+<li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi:</li>
 <a href="https://push.org/">push.org</a>
 
 <h2>⚒️ Some of my projects</h2>
@@ -23,10 +23,6 @@ Pet photos app made with react.js
 
 
 <h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
-## About me
-
-📖 Computer engineering student at National University of Colombia.</br>
-✏ Community physics and math educator.</br>
 📣 Español / English / Français.
 
 <h2>🎯 Technologies & Skills</h2>
