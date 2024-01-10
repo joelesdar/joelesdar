@@ -40,15 +40,9 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">&nbsp;&nbsp;
 </p>
 
-<h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
-
-<h2>And contact me: </h2>
-[![Web](https://img.shields.io/badge/Sitio_Web-joelesdar.com-1c82f6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=101010)](https://joelesdar.com/)
-<!--- [![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube) --->
-[![Instagram](https://img.shields.io/badge/Instagram-@joelesdar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joelesdar/)
-[![Twitter](https://img.shields.io/badge/Twitter-@joelesdar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JoelEsDar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Diaz_Arevalo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joelesdar/)
-[![Email](https://img.shields.io/badge/Email-Joel-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jodiazare@gmail.com)
+<h3 align="center">You can know me more at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
+<h3 align="center">Connect with me on: <a align="center" href="https://www.linkedin.com/in/joelesdar/">LinkedIn</a></h3>
+<h3 align="center">I write about web3 and professional growth on: <a align="center" href="https://medium.com/@joelesdar">Medium</a></h3>
 
 <!---
 JoeLink12/JoeLink12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
