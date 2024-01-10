@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">&nbsp;&nbsp;
 </p>
 
-<h2>Find me</h2>
+<h2>One more thing...</h2>
 <h3 align="center">You can know me more at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
 <h3 align="center">Connect with me on: <a align="center" href="https://www.linkedin.com/in/joelesdar/">LinkedIn</a></h3>
 <h3 align="center">I write about web3 and professional growth on: <a align="center" href="https://medium.com/@joelesdar">Medium</a></h3>
