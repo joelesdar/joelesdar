@@ -14,13 +14,13 @@
 <h2>⚒️ Some of my projects</h2>
 
 <h3>🔔 Push Protocol</h3>
-<li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi: <a href="https://push.org/">push.org</a></li>
+<li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi: <a href="https://push.org/" target="_blank">push.org</a></li>
 
 <h3>🐱 Petgram</h3>
-<li>Petgram is the social network where you can register, like and explore your favorite pets: <a href="https://petgram-mu-five.vercel.app/">Petgram</a></li>
-
+<li>Petgram is the social network where you can register, like and explore your favorite pets: <a href="https://petgram-mu-five.vercel.app/" target="_blank">Petgram</a></li>
+ target="_blank"
 <h3>Rick & Morty App</h3>
-<li>With the Rick and Morty app, you can randomly browse through characters from the series: <a href="https://rick-and-morty-generator-9hdb.vercel.app/">App</a></li>
+<li>With the Rick and Morty app, you can randomly browse through characters from the series: <a href="https://rick-and-morty-generator-9hdb.vercel.app/" target="_blank">App</a></li>
 
 <h3 align="center"> You can find me at: <a align="center" href="https://joelesdar.com">Joelesdar.com</a></h3>
 📣 Español / English / Français.
