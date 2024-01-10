@@ -12,6 +12,9 @@
 </ul>
 
 <h3>Push Protocol</h3>
+- I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi:
+<a href="https://push.org/">push.org</a>
+
 <h2>⚒️ Some of my projects</h2>
 
 <h3>Petgram</h3>
