@@ -5,7 +5,7 @@
 <br/>
 <h2>👀 About me</h2>
 <ul>
-  <li>✏️ I'm currently leading the most successful student project in Blockchain in Colombia at <a href="https://www.linkedin.com/company/turingbox/">TuringBox</a>.</li>
+  <li>✏💙🧡 I'm currently representing, expanding and teaching the Arbitrum technologies and ecosistem at the <a href="https://arbitrum.foundation/">Arbitrum Foundation</a>.</li>
   <li>💚 I've been ambassador at Platzi in the Ethereum Developer Program.</li>
   <li>🎤 You cand find me always organizing tech events for the community and speaking about the future in this industry.</li>
   <li>🫂 Ask me about education, Blockchain & Web3, or whatever you want, I'm here to help and grow together.</li>
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="DialogFlow" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Premiere&nbsp;Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro">&nbsp;&nbsp;
