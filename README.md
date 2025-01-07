@@ -3,7 +3,7 @@
 <strong>I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨</strong>
 <br/>
 <br/>
-<h2>About me</h2>
+<h2>✏️ About me</h2>
 <ul>
   <li>💙🧡 I'm currently representing, expanding and teaching the Arbitrum technologies and ecosistem at the <a href="https://arbitrum.foundation/">Arbitrum Foundation</a>.</li>
   <li>💚 I've been ambassador at Platzi in the Ethereum Developer Program.</li>
